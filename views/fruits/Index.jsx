@@ -1,5 +1,5 @@
-const React = require("react")
-const Nav = require("../components/Nav")
+const React = require("react");
+const Nav = require("../components/Nav");
 
 class Index extends React.Component {
   render() {
@@ -29,6 +29,6 @@ class Index extends React.Component {
     </div>
     )
   }
-}
+};
 
-module.exports = Index
+module.exports = Index;
